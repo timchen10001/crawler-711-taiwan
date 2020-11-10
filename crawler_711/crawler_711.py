@@ -1,6 +1,3 @@
-# To add a new cell, type '# %%'
-# To add a new markdown cell, type '# %% [markdown]'
-# %%
 import requests as rq
 import pandas as pd
 import random
@@ -187,7 +184,3 @@ class crawler_711:
                     store_list.append(store_info)
         return store_list
 
-
-
-
-# %%
